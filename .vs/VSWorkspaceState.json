@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\dickssportinggoods_service",
     "\\walmart_service"
   ],
-  "SelectedNode": "\\walmart_service",
+  "SelectedNode": "\\walmart_service\\info.json",
   "PreviewInSolutionExplorer": false
 }
