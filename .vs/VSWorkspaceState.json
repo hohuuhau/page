@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\dickssportinggoods_service"
+    "\\dickssportinggoods_service",
+    "\\ostustore_service"
   ],
-  "SelectedNode": "\\dickssportinggoods_service\\info.json",
+  "SelectedNode": "\\ostustore_service\\ostustore_1.0.0.exe",
   "PreviewInSolutionExplorer": false
 }
